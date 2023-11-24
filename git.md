@@ -33,3 +33,7 @@ Mac & Linux
 rm filename
 ```
 
+Перемещение по веткам 
+```sh
+git checkout имя ветки
+```
